@@ -1,0 +1,28 @@
+@import './partials/variables.scss';
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,900&family=Roboto:ital,wght@0,100;1,900&display=swap');
+
+
+// NOTE  reset
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+// NOTE  containers
+.container {
+width:80%;
+margin:0 auto;
+}
+
+
+
+
+
+// NOTE  body
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  }
+
+  
