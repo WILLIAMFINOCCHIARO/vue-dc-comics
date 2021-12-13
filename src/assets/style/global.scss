@@ -1,5 +1,6 @@
 @import './partials/variables.scss';
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,900&family=Roboto:ital,wght@0,100;1,900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />');
 
 
 // NOTE  reset
@@ -22,7 +23,6 @@ margin:0 auto;
 // NOTE  body
 body {
   font-family: 'Roboto', sans-serif;
-  font-weight: 600;
+  font-weight: bold;
   }
 
-  

@@ -57,6 +57,7 @@ name:"Header",
       display:inline-block;
       margin: 0 10px;
       a {
+        font-size:25px;
         text-decoration: none;
         color:#5d5e5f;
         &:hover{
