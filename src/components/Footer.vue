@@ -140,6 +140,7 @@ name:"Footer"
       width:70%;
       display:flex;
       align-items: center;
+      justify-content: space-around;
       div {
         font-size: 20px;
         color:$mainColor;
