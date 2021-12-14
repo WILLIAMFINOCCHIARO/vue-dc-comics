@@ -128,7 +128,7 @@ name:"Footer"
   align-items: center;
   .container {
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
     button {
       color:white;
       text-transform: uppercase;
@@ -137,12 +137,16 @@ name:"Footer"
       border:2px solid $mainColor;
     }
     .follow{
-      width:50%;
+      width:70%;
       display:flex;
       align-items: center;
-      justify-content: space-around;
+      div {
+        font-size: 20px;
+        color:$mainColor;
+        padding-right: 20px;
+      }
       img {
-      height:40px;
+      height:30px;
     }}
   }
   
